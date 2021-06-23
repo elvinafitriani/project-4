@@ -1,1 +1,8 @@
 belajar
+lakukan fork dengan repo rekan kita
+lakukan cloning pada repo fork kita
+buat remote baru dengan link repo asli
+edit repo asli
+lakukan git fetch nama_remote
+lakukan merge dengan "git merge nama_remote/main"
+lakukan git push -u origin main
